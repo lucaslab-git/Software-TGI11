@@ -1,0 +1,11 @@
+H:\AIT\C#\zahlraten\zahlraten\bin\Debug\netcoreapp2.2\zahlraten.deps.json
+H:\AIT\C#\zahlraten\zahlraten\bin\Debug\netcoreapp2.2\zahlraten.runtimeconfig.json
+H:\AIT\C#\zahlraten\zahlraten\bin\Debug\netcoreapp2.2\zahlraten.runtimeconfig.dev.json
+H:\AIT\C#\zahlraten\zahlraten\bin\Debug\netcoreapp2.2\zahlraten.dll
+H:\AIT\C#\zahlraten\zahlraten\bin\Debug\netcoreapp2.2\zahlraten.pdb
+H:\AIT\C#\zahlraten\zahlraten\obj\Debug\netcoreapp2.2\zahlraten.csprojAssemblyReference.cache
+H:\AIT\C#\zahlraten\zahlraten\obj\Debug\netcoreapp2.2\zahlraten.csproj.CoreCompileInputs.cache
+H:\AIT\C#\zahlraten\zahlraten\obj\Debug\netcoreapp2.2\zahlraten.AssemblyInfoInputs.cache
+H:\AIT\C#\zahlraten\zahlraten\obj\Debug\netcoreapp2.2\zahlraten.AssemblyInfo.cs
+H:\AIT\C#\zahlraten\zahlraten\obj\Debug\netcoreapp2.2\zahlraten.dll
+H:\AIT\C#\zahlraten\zahlraten\obj\Debug\netcoreapp2.2\zahlraten.pdb
