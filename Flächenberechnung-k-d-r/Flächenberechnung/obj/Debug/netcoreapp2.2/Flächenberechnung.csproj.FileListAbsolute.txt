@@ -1,0 +1,11 @@
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\obj\Debug\netcoreapp2.2\Flächenberechnung.csproj.CoreCompileInputs.cache
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\obj\Debug\netcoreapp2.2\Flächenberechnung.AssemblyInfoInputs.cache
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\obj\Debug\netcoreapp2.2\Flächenberechnung.AssemblyInfo.cs
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\bin\Debug\netcoreapp2.2\Flächenberechnung.deps.json
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\bin\Debug\netcoreapp2.2\Flächenberechnung.runtimeconfig.json
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\bin\Debug\netcoreapp2.2\Flächenberechnung.runtimeconfig.dev.json
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\bin\Debug\netcoreapp2.2\Flächenberechnung.dll
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\bin\Debug\netcoreapp2.2\Flächenberechnung.pdb
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\obj\Debug\netcoreapp2.2\Flächenberechnung.dll
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\obj\Debug\netcoreapp2.2\Flächenberechnung.pdb
+H:\AIT\C#\Flächenberechnung\Flächenberechnung\obj\Debug\netcoreapp2.2\Flächenberechnung.csprojAssemblyReference.cache
