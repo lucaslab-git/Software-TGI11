@@ -1,0 +1,10 @@
+H:\AIT\C#\Schulnoten\Schulnoten\bin\Debug\netcoreapp2.2\Schulnoten.deps.json
+H:\AIT\C#\Schulnoten\Schulnoten\bin\Debug\netcoreapp2.2\Schulnoten.runtimeconfig.json
+H:\AIT\C#\Schulnoten\Schulnoten\bin\Debug\netcoreapp2.2\Schulnoten.runtimeconfig.dev.json
+H:\AIT\C#\Schulnoten\Schulnoten\bin\Debug\netcoreapp2.2\Schulnoten.dll
+H:\AIT\C#\Schulnoten\Schulnoten\bin\Debug\netcoreapp2.2\Schulnoten.pdb
+H:\AIT\C#\Schulnoten\Schulnoten\obj\Debug\netcoreapp2.2\Schulnoten.csproj.CoreCompileInputs.cache
+H:\AIT\C#\Schulnoten\Schulnoten\obj\Debug\netcoreapp2.2\Schulnoten.AssemblyInfoInputs.cache
+H:\AIT\C#\Schulnoten\Schulnoten\obj\Debug\netcoreapp2.2\Schulnoten.AssemblyInfo.cs
+H:\AIT\C#\Schulnoten\Schulnoten\obj\Debug\netcoreapp2.2\Schulnoten.dll
+H:\AIT\C#\Schulnoten\Schulnoten\obj\Debug\netcoreapp2.2\Schulnoten.pdb
