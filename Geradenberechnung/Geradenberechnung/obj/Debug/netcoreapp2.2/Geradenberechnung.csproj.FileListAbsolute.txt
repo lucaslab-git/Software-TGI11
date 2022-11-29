@@ -1,0 +1,11 @@
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\bin\Debug\netcoreapp2.2\Geradenberechnung.deps.json
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\bin\Debug\netcoreapp2.2\Geradenberechnung.runtimeconfig.json
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\bin\Debug\netcoreapp2.2\Geradenberechnung.runtimeconfig.dev.json
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\bin\Debug\netcoreapp2.2\Geradenberechnung.dll
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\bin\Debug\netcoreapp2.2\Geradenberechnung.pdb
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\obj\Debug\netcoreapp2.2\Geradenberechnung.csprojAssemblyReference.cache
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\obj\Debug\netcoreapp2.2\Geradenberechnung.csproj.CoreCompileInputs.cache
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\obj\Debug\netcoreapp2.2\Geradenberechnung.AssemblyInfoInputs.cache
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\obj\Debug\netcoreapp2.2\Geradenberechnung.AssemblyInfo.cs
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\obj\Debug\netcoreapp2.2\Geradenberechnung.dll
+H:\AIT\C#\Geradenberechnung\Geradenberechnung\obj\Debug\netcoreapp2.2\Geradenberechnung.pdb

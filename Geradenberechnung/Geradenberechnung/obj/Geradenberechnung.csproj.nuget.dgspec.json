@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\AIT\\C#\\Geradenberechnung\\Geradenberechnung\\Geradenberechnung.csproj": {}
+  },
+  "projects": {
+    "H:\\AIT\\C#\\Geradenberechnung\\Geradenberechnung\\Geradenberechnung.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\AIT\\C#\\Geradenberechnung\\Geradenberechnung\\Geradenberechnung.csproj",
+        "projectName": "Geradenberechnung",
+        "projectPath": "H:\\AIT\\C#\\Geradenberechnung\\Geradenberechnung\\Geradenberechnung.csproj",
+        "packagesPath": "C:\\Users\\22.schweda.luca\\.nuget\\packages\\",
+        "outputPath": "H:\\AIT\\C#\\Geradenberechnung\\Geradenberechnung\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\22.schweda.luca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
