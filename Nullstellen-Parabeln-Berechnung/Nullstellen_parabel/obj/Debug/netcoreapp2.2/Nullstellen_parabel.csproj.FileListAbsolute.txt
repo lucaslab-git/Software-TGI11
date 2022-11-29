@@ -1,0 +1,11 @@
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\obj\Debug\netcoreapp2.2\Nullstellen_parabel.csproj.CoreCompileInputs.cache
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\obj\Debug\netcoreapp2.2\Nullstellen_parabel.AssemblyInfoInputs.cache
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\obj\Debug\netcoreapp2.2\Nullstellen_parabel.AssemblyInfo.cs
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\bin\Debug\netcoreapp2.2\Nullstellen_parabel.deps.json
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\bin\Debug\netcoreapp2.2\Nullstellen_parabel.runtimeconfig.json
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\bin\Debug\netcoreapp2.2\Nullstellen_parabel.runtimeconfig.dev.json
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\bin\Debug\netcoreapp2.2\Nullstellen_parabel.dll
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\bin\Debug\netcoreapp2.2\Nullstellen_parabel.pdb
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\obj\Debug\netcoreapp2.2\Nullstellen_parabel.dll
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\obj\Debug\netcoreapp2.2\Nullstellen_parabel.pdb
+H:\AIT\C#\Nullstellen_parabel\Nullstellen_parabel\obj\Debug\netcoreapp2.2\Nullstellen_parabel.csprojAssemblyReference.cache
