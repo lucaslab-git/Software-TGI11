@@ -1,0 +1,10 @@
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\bin\Debug\netcoreapp2.2\Ber_Kreisfläche.deps.json
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\bin\Debug\netcoreapp2.2\Ber_Kreisfläche.runtimeconfig.json
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\bin\Debug\netcoreapp2.2\Ber_Kreisfläche.runtimeconfig.dev.json
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\bin\Debug\netcoreapp2.2\Ber_Kreisfläche.dll
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\bin\Debug\netcoreapp2.2\Ber_Kreisfläche.pdb
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\obj\Debug\netcoreapp2.2\Ber_Kreisfläche.csproj.CoreCompileInputs.cache
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\obj\Debug\netcoreapp2.2\Ber_Kreisfläche.AssemblyInfoInputs.cache
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\obj\Debug\netcoreapp2.2\Ber_Kreisfläche.AssemblyInfo.cs
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\obj\Debug\netcoreapp2.2\Ber_Kreisfläche.dll
+H:\AIT\C#\Ber_Kreisfläche\Ber_Kreisfläche\obj\Debug\netcoreapp2.2\Ber_Kreisfläche.pdb
