@@ -1,0 +1,11 @@
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\bin\Debug\netcoreapp2.2\Ber_Rechtecksfläche.deps.json
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\bin\Debug\netcoreapp2.2\Ber_Rechtecksfläche.runtimeconfig.json
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\bin\Debug\netcoreapp2.2\Ber_Rechtecksfläche.runtimeconfig.dev.json
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\bin\Debug\netcoreapp2.2\Ber_Rechtecksfläche.dll
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\bin\Debug\netcoreapp2.2\Ber_Rechtecksfläche.pdb
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\obj\Debug\netcoreapp2.2\Ber_Rechtecksfläche.csprojAssemblyReference.cache
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\obj\Debug\netcoreapp2.2\Ber_Rechtecksfläche.csproj.CoreCompileInputs.cache
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\obj\Debug\netcoreapp2.2\Ber_Rechtecksfläche.AssemblyInfoInputs.cache
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\obj\Debug\netcoreapp2.2\Ber_Rechtecksfläche.AssemblyInfo.cs
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\obj\Debug\netcoreapp2.2\Ber_Rechtecksfläche.dll
+H:\AIT\C#\Ber_Rechtecksfläche\Ber_Rechtecksfläche\obj\Debug\netcoreapp2.2\Ber_Rechtecksfläche.pdb
