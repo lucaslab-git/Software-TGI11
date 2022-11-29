@@ -1,0 +1,11 @@
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\bin\Debug\netcoreapp2.2\Ber_Dreiecksfläche.deps.json
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\bin\Debug\netcoreapp2.2\Ber_Dreiecksfläche.runtimeconfig.json
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\bin\Debug\netcoreapp2.2\Ber_Dreiecksfläche.runtimeconfig.dev.json
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\bin\Debug\netcoreapp2.2\Ber_Dreiecksfläche.dll
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\bin\Debug\netcoreapp2.2\Ber_Dreiecksfläche.pdb
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\obj\Debug\netcoreapp2.2\Ber_Dreiecksfläche.csprojAssemblyReference.cache
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\obj\Debug\netcoreapp2.2\Ber_Dreiecksfläche.csproj.CoreCompileInputs.cache
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\obj\Debug\netcoreapp2.2\Ber_Dreiecksfläche.AssemblyInfoInputs.cache
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\obj\Debug\netcoreapp2.2\Ber_Dreiecksfläche.AssemblyInfo.cs
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\obj\Debug\netcoreapp2.2\Ber_Dreiecksfläche.dll
+H:\AIT\C#\Ber_Dreiecksfläche\Ber_Dreiecksfläche\obj\Debug\netcoreapp2.2\Ber_Dreiecksfläche.pdb
