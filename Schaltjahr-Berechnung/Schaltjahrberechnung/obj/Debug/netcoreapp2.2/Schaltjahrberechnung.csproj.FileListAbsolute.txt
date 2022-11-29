@@ -1,0 +1,11 @@
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\obj\Debug\netcoreapp2.2\Schaltjahrberechnung.csprojAssemblyReference.cache
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\obj\Debug\netcoreapp2.2\Schaltjahrberechnung.csproj.CoreCompileInputs.cache
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\obj\Debug\netcoreapp2.2\Schaltjahrberechnung.AssemblyInfoInputs.cache
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\obj\Debug\netcoreapp2.2\Schaltjahrberechnung.AssemblyInfo.cs
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\bin\Debug\netcoreapp2.2\Schaltjahrberechnung.deps.json
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\bin\Debug\netcoreapp2.2\Schaltjahrberechnung.runtimeconfig.json
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\bin\Debug\netcoreapp2.2\Schaltjahrberechnung.runtimeconfig.dev.json
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\bin\Debug\netcoreapp2.2\Schaltjahrberechnung.dll
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\bin\Debug\netcoreapp2.2\Schaltjahrberechnung.pdb
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\obj\Debug\netcoreapp2.2\Schaltjahrberechnung.dll
+H:\AIT\C#\Schaltjahrberechnung\Schaltjahrberechnung\obj\Debug\netcoreapp2.2\Schaltjahrberechnung.pdb
